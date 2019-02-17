@@ -1,0 +1,7 @@
+pandas
+pillow
+tqdm
+tensorflow
+keras
+sklearn
+matplotlib
