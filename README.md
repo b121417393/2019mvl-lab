@@ -1,2 +1,5 @@
 # 2019mvl-lab
-homework
+
+2019專題實驗室的寒假作業
+
+題目：https://www.kaggle.com/c/plant-seedlings-classification
